@@ -19,3 +19,5 @@ The system calculates **Cosine Similarity** between the emotion vectors of these
 3. Install dependencies:
    ```bash
    pip install gradio opencv-python moviepy transformers torch scikit-learn
+4, copy the code in main.py to the google colab.
+5, run 
